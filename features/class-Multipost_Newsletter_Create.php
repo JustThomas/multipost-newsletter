@@ -277,16 +277,15 @@ if ( ! class_exists( 'Multipost_Newsletter_Create' ) ) {
 				$headers .= "Content-Type: multipart/alternative; boundary = " . $boundary . "\r\n";
 				
 				// text version
-				$headers .= "\r\n--" . $boundary . "\r\n";
-				$headers .= "Content-Type: text/plain; charset=" . get_bloginfo( 'charset' ) . "\r\n";
-				$headers .= $text;
+				$body  = "\r\n--" . $boundary . "\r\n";
+				$body .= "Content-Type: text/plain; charset=" . get_bloginfo( 'charset' ) . "\r\n";
+				$body .= $text;
 				
 				// html version
-				$headers .= "\r\n--" . $boundary . "\r\n";
-				$headers .= "Content-Type: text/html; charset=" . get_bloginfo( 'charset' ) . "\r\n";
-				$headers .= $html;
+				$body .= "\r\n--" . $boundary . "\r\n";
+				$body .= "Content-Type: text/html; charset=" . get_bloginfo( 'charset' ) . "\r\n";
+				$body .= $html;
 				
-				$body = '';
 			} else {
 				$body = $text;
 			}
