@@ -1,0 +1,1834 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multipost Newsletter v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-11-07 08:51:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: features/class-Multipost_Newsletter_Create.php:71
+#: features/class-Multipost_Newsletter_Init.php:163
+#: features/class-Multipost_Newsletter_Prepare.php:95
+#: features/class-Multipost_Newsletter_Taxonomy.php:90
+#: pro/class-Multipost_Newsletter_Groups.php:157
+#@ multipost-newsletter
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: features/class-Multipost_Newsletter_Create.php:71
+#: features/class-Multipost_Newsletter_Init.php:174
+#@ multipost-newsletter
+msgid "Create Newsletter"
+msgstr "Newsletter erstellen"
+
+#: features/class-Multipost_Newsletter_Create.php:78
+#: features/class-Multipost_Newsletter_Options.php:111
+#: features/class-Multipost_Newsletter_Prepare.php:116
+#: features/class-Multipost_Newsletter_Recipients.php:124
+#: features/class-Multipost_Newsletter_Template.php:202
+#: pro/class-Multipost_Newsletter_Groups.php:164
+#@ multipost-newsletter
+msgid "Powered by"
+msgstr "Powered by"
+
+#: features/class-Multipost_Newsletter_Create.php:81
+#: features/class-Multipost_Newsletter_Options.php:114
+#: features/class-Multipost_Newsletter_Prepare.php:119
+#: features/class-Multipost_Newsletter_Recipients.php:127
+#: features/class-Multipost_Newsletter_Template.php:205
+#: pro/class-Multipost_Newsletter_Groups.php:167
+#@ multipost-newsletter
+msgid "This plugin is powered by <a href=\"http://inpsyde.com\">Inpsyde.com</a> - Your expert for WordPress, BuddyPress and bbPress."
+msgstr "Dieses Plugin wird von <a href=\"http://inpsyde.com\">Inpsyde.com</a> präsentiert - Ihrem Experten für WordPress, BuddyPress und bbPress."
+
+#: features/class-Multipost_Newsletter_Create.php:97
+#@ multipost-newsletter
+msgid "You have to choose an edition to send the newsletter"
+msgstr "Du musst eine Edition wählen, um einen Newsletter zu verschicken."
+
+#: features/class-Multipost_Newsletter_Create.php:107
+#: features/class-Multipost_Newsletter_Create.php:112
+#: features/class-Multipost_Newsletter_Prepare.php:146
+#: features/class-Multipost_Newsletter_Prepare.php:151
+#@ multipost-newsletter
+msgid "Choose Edition"
+msgstr "Edition auswählen"
+
+#: features/class-Multipost_Newsletter_Create.php:317
+#@ multipost-newsletter
+msgid "Choose Sending API"
+msgstr "API wählen"
+
+#: features/class-Multipost_Newsletter_Create.php:320
+#@ multipost-newsletter
+msgid "Send over WordPress"
+msgstr "Direkt über WordPress senden"
+
+#: features/class-Multipost_Newsletter_Create.php:321
+#@ multipost-newsletter
+msgid "Send over SMTP"
+msgstr "Über SMTP senden"
+
+#: features/class-Multipost_Newsletter_Create.php:201
+#@ multipost-newsletter
+msgid "Send Test Newsletter"
+msgstr "Sende Test-Newsletter"
+
+#: features/class-Multipost_Newsletter_Create.php:267
+#@ multipost-newsletter
+msgid "Testmail: "
+msgstr "Testmail: "
+
+#: features/class-Multipost_Newsletter_Create.php:308
+#: features/class-Multipost_Newsletter_Create.php:347
+#@ multipost-newsletter
+msgid "Send Newsletter"
+msgstr "Sende Newsletter"
+
+#: pro/class-Multipost_Newsletter_Generate_PDF.php:106
+#@ multipost-newsletter
+msgid "Contents"
+msgstr "Inhaltsverzeichnis"
+
+#: features/class-Multipost_Newsletter_Init.php:134
+#@ multipost-newsletter
+msgid "Send Newsletter to "
+msgstr "Sende Newsletter an "
+
+#: features/class-Multipost_Newsletter_Init.php:135
+#@ multipost-newsletter
+msgid " of "
+msgstr " von "
+
+#: features/class-Multipost_Newsletter_Init.php:136
+#@ multipost-newsletter
+msgid " Recipients "
+msgstr " Empfängern "
+
+#: features/class-Multipost_Newsletter_Init.php:138
+#@ multipost-newsletter
+msgid "All Done!"
+msgstr "Alles fertig!"
+
+#: features/class-Multipost_Newsletter_Init.php:139
+#@ multipost-newsletter
+msgid "An unknown error occured. Please contact your server administrator!"
+msgstr "Ein unbekannter Fehler ist aufgetaucht. Bitte kontaktiere den Server-Administrator!"
+
+#: features/class-Multipost_Newsletter_Init.php:164
+#@ multipost-newsletter
+msgid "Options"
+msgstr "Optionen"
+
+#: features/class-Multipost_Newsletter_Init.php:165
+#@ multipost-newsletter
+msgid "Template"
+msgstr "Template"
+
+#: features/class-Multipost_Newsletter_Init.php:166
+#: features/class-Multipost_Newsletter_Taxonomy.php:129
+#: features/class-Multipost_Newsletter_Taxonomy.php:150
+#@ multipost-newsletter
+msgid "Editions"
+msgstr "Editionen"
+
+#: features/class-Multipost_Newsletter_Init.php:171
+#: features/class-Multipost_Newsletter_Recipients.php:217
+#: features/class-Multipost_Newsletter_Recipients.php:531
+#: features/class-Multipost_Newsletter_Recipients.php:544
+#: pro/class-Multipost_Newsletter_Groups.php:157
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:86
+#@ multipost-newsletter
+msgid "Groups"
+msgstr "Gruppen"
+
+#: features/class-Multipost_Newsletter_Init.php:173
+#: features/class-Multipost_Newsletter_Prepare.php:95
+#: features/class-Multipost_Newsletter_Prepare.php:240
+#@ multipost-newsletter
+msgid "Prepare Newsletter"
+msgstr "Newsletter vorbereiten"
+
+#: features/class-Multipost_Newsletter_Init.php:202
+#@ multipost-newsletter
+msgid "File Path"
+msgstr "Pfad zur Datei"
+
+#: features/class-Multipost_Newsletter_Init.php:206
+#@ multipost-newsletter
+msgid "Path of the uploaded file."
+msgstr "Pfad der hochgeladenen Datei."
+
+#: features/class-Multipost_Newsletter_Init.php:328
+#: features/class-Multipost_Newsletter_Init.php:359
+#@ multipost-newsletter
+msgid "written by"
+msgstr "geschrieben von"
+
+#: features/class-Multipost_Newsletter_Init.php:328
+#@ multipost-newsletter
+msgid "at"
+msgstr "am"
+
+#: features/class-Multipost_Newsletter_Init.php:330
+#@ multipost-newsletter
+msgid "Read more"
+msgstr "Mehr lesen"
+
+#: features/class-Multipost_Newsletter_Options.php:78
+#: features/class-Multipost_Newsletter_Template.php:83
+#@ multipost-newsletter
+msgid "General"
+msgstr "Allgemein"
+
+#: features/class-Multipost_Newsletter_Options.php:79
+#@ multipost-newsletter
+msgid "SMTP"
+msgstr "SMTP"
+
+#: features/class-Multipost_Newsletter_Options.php:95
+#@ multipost-newsletter
+msgid "Newsletter Options "
+msgstr "Newsletter Optionen "
+
+#: features/class-Multipost_Newsletter_Options.php:161
+#@ multipost-newsletter
+msgid "You have to purchase the pro-version of this plugin to send a newsletter over SMTP"
+msgstr "Sie müssen die Pro-Version des Plugins kaufen, um den Newsletter über SMTP zu verschicken!"
+
+#: features/class-Multipost_Newsletter_Options.php:194
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:83
+#@ multipost-newsletter
+msgid "Options have been saved."
+msgstr "Optionen wurden gespeichert."
+
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:91
+#@ multipost-newsletter
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: features/class-Multipost_Newsletter_Options.php:231
+#@ multipost-newsletter
+msgid "Sender Name"
+msgstr "Absender Name"
+
+#: features/class-Multipost_Newsletter_Options.php:239
+#@ multipost-newsletter
+msgid "Sender E-Mail"
+msgstr "Absender E-Mail"
+
+#: features/class-Multipost_Newsletter_Options.php:247
+#@ multipost-newsletter
+msgid "Recipient of Testmail"
+msgstr "Empfänger der Testmail"
+
+#: features/class-Multipost_Newsletter_Options.php:210
+#@ multipost-newsletter
+msgid "Support Post Types"
+msgstr "Unterstütze Post Types"
+
+#: features/class-Multipost_Newsletter_Options.php:257
+#: features/class-Multipost_Newsletter_Template.php:526
+#: features/class-Multipost_Newsletter_Template.php:658
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:132
+#: pro/class-Multipost_Newsletter_Template_HTML.php:186
+#: pro/class-Multipost_Newsletter_Template_PDF.php:370
+#@ multipost-newsletter
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: features/class-Multipost_Newsletter_Prepare.php:102
+#@ multipost-newsletter
+msgid "You have to choose an edition to generate the newsletter"
+msgstr "Du musst eine Edition wählen, um einen Newsletter zu generieren."
+
+#: features/class-Multipost_Newsletter_Prepare.php:287
+#@ multipost-newsletter
+msgid "Choose Spacer"
+msgstr "Platzhalter wählen"
+
+#: features/class-Multipost_Newsletter_Prepare.php:288
+#@ multipost-newsletter
+msgid "Empty Spacer"
+msgstr "Leerer Platzhalter"
+
+#: features/class-Multipost_Newsletter_Prepare.php:376
+#: features/class-Multipost_Newsletter_Prepare.php:407
+#: features/class-Multipost_Newsletter_Prepare.php:573
+#: features/class-Multipost_Newsletter_Template.php:341
+#: features/class-Multipost_Newsletter_Template.php:385
+#@ multipost-newsletter
+msgid "Click to toggle"
+msgstr "Klicken um umzuschalten"
+
+#: features/class-Multipost_Newsletter_Prepare.php:378
+#: features/class-Multipost_Newsletter_Prepare.php:575
+#: features/class-Multipost_Newsletter_Template.php:87
+#@ multipost-newsletter
+msgid "Spacer"
+msgstr "Platzhalter"
+
+#: features/class-Multipost_Newsletter_Prepare.php:389
+#: features/class-Multipost_Newsletter_Prepare.php:579
+#: features/class-Multipost_Newsletter_Recipients.php:206
+#: features/class-Multipost_Newsletter_Template.php:84
+#: features/class-Multipost_Newsletter_Widget.php:198
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:76
+#@ multipost-newsletter
+msgid "HTML"
+msgstr "HTML"
+
+#: features/class-Multipost_Newsletter_Prepare.php:392
+#: features/class-Multipost_Newsletter_Prepare.php:582
+#: features/class-Multipost_Newsletter_Recipients.php:207
+#: features/class-Multipost_Newsletter_Template.php:85
+#: features/class-Multipost_Newsletter_Widget.php:199
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:77
+#@ multipost-newsletter
+msgid "Text"
+msgstr "Text"
+
+#: features/class-Multipost_Newsletter_Prepare.php:395
+#: features/class-Multipost_Newsletter_Prepare.php:585
+#@ multipost-newsletter
+msgid "Show Spacer in Contents only"
+msgstr "Zeigen den Platzhalter nur im Inhaltsverzeichnis"
+
+#: features/class-Multipost_Newsletter_Prepare.php:397
+#: features/class-Multipost_Newsletter_Prepare.php:587
+#@ multipost-newsletter
+msgid "Don't show this spacer in PDF"
+msgstr "Zeige diesen Platzhalter nicht im PDF"
+
+#: features/class-Multipost_Newsletter_Prepare.php:400
+#: features/class-Multipost_Newsletter_Prepare.php:590
+#: features/class-Multipost_Newsletter_Template.php:418
+#@ multipost-newsletter
+msgid "Delete Spacer"
+msgstr "Platzhalter löschen"
+
+#: features/class-Multipost_Newsletter_Prepare.php:399
+#: features/class-Multipost_Newsletter_Prepare.php:589
+#@ multipost-newsletter
+msgid "Save Spacer"
+msgstr "Platzhalter speichern"
+
+#: features/class-Multipost_Newsletter_Prepare.php:495
+#@ multipost-newsletter
+msgid "Save Post Settings"
+msgstr "Speicher Artikeleinstellungen"
+
+#: features/class-Multipost_Newsletter_Prepare.php:477
+#@ multipost-newsletter
+msgid "Additional Options"
+msgstr "Zusätzliche Optionen"
+
+#: features/class-Multipost_Newsletter_Prepare.php:478
+#@ multipost-newsletter
+msgid "Show Post Thumbnail"
+msgstr "Zeige Artikelbilder"
+
+#: features/class-Multipost_Newsletter_Prepare.php:480
+#@ multipost-newsletter
+msgid "Title"
+msgstr "Titel"
+
+#: features/class-Multipost_Newsletter_Prepare.php:481
+#@ multipost-newsletter
+msgid "Donot show Title"
+msgstr "Verstecke Titel"
+
+#: features/class-Multipost_Newsletter_Prepare.php:483
+#@ multipost-newsletter
+msgid "Content Options"
+msgstr "Inhaltseinstellungen"
+
+#: features/class-Multipost_Newsletter_Prepare.php:484
+#: features/class-Multipost_Newsletter_Prepare.php:489
+#@ multipost-newsletter
+msgid "Show full content"
+msgstr "Zeige kompletten Inhalt"
+
+#: features/class-Multipost_Newsletter_Prepare.php:485
+#: features/class-Multipost_Newsletter_Prepare.php:490
+#@ multipost-newsletter
+msgid "Only show excerpt"
+msgstr "Zeige den Auszug"
+
+#: features/class-Multipost_Newsletter_Prepare.php:486
+#@ multipost-newsletter
+msgid "Only show the link"
+msgstr "Zeige nur den Link"
+
+#: features/class-Multipost_Newsletter_Prepare.php:488
+#@ multipost-newsletter
+msgid "PDF Content Options"
+msgstr "PDF-Einstellungen"
+
+#: features/class-Multipost_Newsletter_Prepare.php:492
+#@ multipost-newsletter
+msgid "PDF Settings"
+msgstr "PDF-Einstellungen"
+
+#: features/class-Multipost_Newsletter_Prepare.php:493
+#@ multipost-newsletter
+msgid "Donot show this post in pdf"
+msgstr "Verstecke den Artikel im PDF"
+
+#: features/class-Multipost_Newsletter_Template.php:313
+#: features/class-Multipost_Newsletter_Template.php:331
+#@ multipost-newsletter
+msgid "Spacer has been saved"
+msgstr "Platzhalter wurde gespeichert"
+
+#: features/class-Multipost_Newsletter_Prepare.php:764
+#@ multipost-newsletter
+msgid "Download PDF"
+msgstr "PDF herunterladen"
+
+#: features/class-Multipost_Newsletter_Prepare.php:793
+#@ multipost-newsletter
+msgid "Text-Preview"
+msgstr "Text-Vorschau"
+
+#: features/class-Multipost_Newsletter_Prepare.php:794
+#@ multipost-newsletter
+msgid "HTML-Preview"
+msgstr "HTML-Vorschau"
+
+#: features/class-Multipost_Newsletter_Prepare.php:801
+#@ multipost-newsletter
+msgid "Download-PDF"
+msgstr "PDF-Download"
+
+#: features/class-Multipost_Newsletter_Prepare.php:807
+#@ multipost-newsletter
+msgid "Newsletter Preview"
+msgstr "Newsletter Vorschau"
+
+#: features/class-Multipost_Newsletter_Prepare.php:538
+#: features/class-Multipost_Newsletter_Prepare.php:630
+#: features/class-Multipost_Newsletter_Prepare.php:668
+#: features/class-Multipost_Newsletter_Prepare.php:708
+#: features/class-Multipost_Newsletter_Prepare.php:746
+#: features/class-Multipost_Newsletter_Prepare.php:816
+#: features/class-Multipost_Newsletter_Template.php:546
+#@ multipost-newsletter
+msgid "You have to purchase the pro-version of this plugin to generate an HTML-Newsletter"
+msgstr "Sie müssen die Pro-Version des Plugins kaufen, um HTML-Newsletter zu erstellen."
+
+#: features/class-Multipost_Newsletter_Prepare.php:822
+#@ multipost-newsletter
+msgid "Generate PDF, please wait"
+msgstr "Erstelle PDF, bitte warten"
+
+#: features/class-Multipost_Newsletter_Prepare.php:824
+#: features/class-Multipost_Newsletter_Template.php:565
+#@ multipost-newsletter
+msgid "You have to purchase the pro-version of this plugin to generate a PDF-Newsletter"
+msgstr "Sie müssen die Pro-Version des Plugins kaufen, um PDF-Newsletter zu erstellen."
+
+#: features/class-Multipost_Newsletter_Recipients.php:527
+#: features/class-Multipost_Newsletter_Recipients.php:540
+#@ multipost-newsletter
+msgid "Type"
+msgstr "Typ"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:151
+#@ multipost-newsletter
+msgid "All Editions"
+msgstr "Alle Editionen"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:152
+#@ multipost-newsletter
+msgid "Edit Edition"
+msgstr "Editiere Edition"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:153
+#@ multipost-newsletter
+msgid "Parent Edition"
+msgstr "Übergeordnete Edition"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:154
+#@ multipost-newsletter
+msgid "Update Edition"
+msgstr "Edition editieren"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:155
+#@ multipost-newsletter
+msgid "Search Editions"
+msgstr "Editionen durchsuchen"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:156
+#: features/class-Multipost_Newsletter_Taxonomy.php:158
+#@ multipost-newsletter
+msgid "Add Edition"
+msgstr "Edition hinzufügen"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:157
+#@ multipost-newsletter
+msgid "Edition"
+msgstr "Edition"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:159
+#@ multipost-newsletter
+msgid "Popular Editions"
+msgstr "Populäre Editionen"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:160
+#@ multipost-newsletter
+msgid "Parent Edition:"
+msgstr "Übergeordnete Edition:"
+
+#: features/class-Multipost_Newsletter_Template.php:86
+#@ multipost-newsletter
+msgid "PDF"
+msgstr "PDF"
+
+#: features/class-Multipost_Newsletter_Template.php:103
+#@ multipost-newsletter
+msgid "Template "
+msgstr "Template "
+
+#: features/class-Multipost_Newsletter_Template.php:141
+#@ multipost-newsletter
+msgid "Restore Point at "
+msgstr "Wiederherstellungspunkt am "
+
+#: features/class-Multipost_Newsletter_Template.php:162
+#@ multipost-newsletter
+msgid "Restore Point has been saved"
+msgstr "Wiederherstellungspunkt wurde gespeichert"
+
+#: features/class-Multipost_Newsletter_Template.php:189
+#@ multipost-newsletter
+msgid "Restore Settings. Please wait ..."
+msgstr "Stelle Einstellungen wieder her, bitte warten ..."
+
+#: features/class-Multipost_Newsletter_Template.php:210
+#: features/class-Multipost_Newsletter_Template.php:216
+#@ multipost-newsletter
+msgid "Create Restore Point"
+msgstr "Erstelle Wiederherstellungspunkt"
+
+#: features/class-Multipost_Newsletter_Template.php:212
+#@ multipost-newsletter
+msgid "This newsletter plugin is able to save the template settings into a restore point. With that you can restore the settings."
+msgstr "Dieses Plugin ist in der Lage die Template-Einstellungen in einem Wiederherstellungspunkt zu speichern, um die Einstellungen zurück zu setzen."
+
+#: features/class-Multipost_Newsletter_Template.php:214
+#@ multipost-newsletter
+msgid "Name of Restore Point"
+msgstr "Name des Wiederherstellungspunktes"
+
+#: features/class-Multipost_Newsletter_Template.php:215
+#@ multipost-newsletter
+msgid "Leave empty and the name will be generated automatically"
+msgstr "Leer lassen und der Name wird automatisch generiert."
+
+#: features/class-Multipost_Newsletter_Template.php:222
+#: features/class-Multipost_Newsletter_Template.php:237
+#@ multipost-newsletter
+msgid "Restore Template Settings"
+msgstr "Template-Einstellungen wieder herstellen"
+
+#: features/class-Multipost_Newsletter_Template.php:231
+#@ multipost-newsletter
+msgid "Chose Restore Point"
+msgstr "Wiederherstellungspunkt auswählen"
+
+#: features/class-Multipost_Newsletter_Template.php:295
+#@ multipost-newsletter
+msgid "Spacer has been deleted"
+msgstr "Platzhalter wurde gelöscht"
+
+#: features/class-Multipost_Newsletter_Template.php:342
+#@ multipost-newsletter
+msgid "Add Spacer Template"
+msgstr "Platzhalter Template hinzufügen"
+
+#: features/class-Multipost_Newsletter_Template.php:349
+#@ multipost-newsletter
+msgid "Spacer Title"
+msgstr "Platzhalter Titel"
+
+#: features/class-Multipost_Newsletter_Template.php:357
+#: features/class-Multipost_Newsletter_Template.php:401
+#@ multipost-newsletter
+msgid "HTML Content"
+msgstr "HTML Inhalt"
+
+#: features/class-Multipost_Newsletter_Template.php:365
+#: features/class-Multipost_Newsletter_Template.php:409
+#@ multipost-newsletter
+msgid "Text Content"
+msgstr "Text Inhalt"
+
+#: features/class-Multipost_Newsletter_Template.php:373
+#@ multipost-newsletter
+msgid "Add New Spacer"
+msgstr "Platzhalter hinzufügen"
+
+#: features/class-Multipost_Newsletter_Template.php:378
+#@ multipost-newsletter
+msgid "Currently available spacers"
+msgstr "Derzeit erstellte Platzhalter"
+
+#: features/class-Multipost_Newsletter_Template.php:419
+#@ multipost-newsletter
+msgid "Edit Spacer"
+msgstr "Platzhalter editieren"
+
+#: features/class-Multipost_Newsletter_Template.php:459
+#: features/class-Multipost_Newsletter_Template.php:604
+#: pro/class-Multipost_Newsletter_Template_HTML.php:98
+#: pro/class-Multipost_Newsletter_Template_PDF.php:93
+#@ multipost-newsletter
+msgid "Template has been saved."
+msgstr "Template wurde gespeichert"
+
+#: features/class-Multipost_Newsletter_Template.php:468
+#@ multipost-newsletter
+msgid "General Template"
+msgstr "Allgemeines Template"
+
+#: features/class-Multipost_Newsletter_Template.php:474
+#@ multipost-newsletter
+msgid "Intro-Text"
+msgstr "Einleitungstext"
+
+#: features/class-Multipost_Newsletter_Template.php:480
+#: features/class-Multipost_Newsletter_Template.php:493
+#: pro/class-Multipost_Newsletter_Template_HTML.php:157
+#@ multipost-newsletter
+msgid "Display the PDF Link"
+msgstr "Zeigt den PDF Link"
+
+#: features/class-Multipost_Newsletter_Template.php:487
+#@ multipost-newsletter
+msgid "Footer-Text"
+msgstr "Footer-Text"
+
+#: features/class-Multipost_Newsletter_Template.php:500
+#@ multipost-newsletter
+msgid "Display contents"
+msgstr "Zeige Inhaltsverzeichnis"
+
+#: features/class-Multipost_Newsletter_Template.php:508
+#: pro/class-Multipost_Newsletter_Template_PDF.php:360
+#@ multipost-newsletter
+msgid "Content as Excerpt"
+msgstr "Zeige nur den Auszug"
+
+#: features/class-Multipost_Newsletter_Template.php:516
+#@ multipost-newsletter
+msgid "Use Post Thumbnails"
+msgstr "Benutze Artikelbilder"
+
+#: features/class-Multipost_Newsletter_Template.php:613
+#@ multipost-newsletter
+msgid "Text Template"
+msgstr "Text Template"
+
+#: features/class-Multipost_Newsletter_Template.php:619
+#: pro/class-Multipost_Newsletter_Template_HTML.php:145
+#@ multipost-newsletter
+msgid "Newsletter Template"
+msgstr "Newsletter Template"
+
+#: features/class-Multipost_Newsletter_Template.php:625
+#: pro/class-Multipost_Newsletter_Template_HTML.php:151
+#@ multipost-newsletter
+msgid "Name of the newsletter"
+msgstr "Name des Newsletters"
+
+#: features/class-Multipost_Newsletter_Template.php:626
+#: pro/class-Multipost_Newsletter_Template_HTML.php:152
+#@ multipost-newsletter
+msgid "Displays the Intro-Text"
+msgstr "Zeigt den Intro-Text"
+
+#: features/class-Multipost_Newsletter_Template.php:627
+#: pro/class-Multipost_Newsletter_Template_HTML.php:153
+#@ multipost-newsletter
+msgid "Date of the Newsletter"
+msgstr "Datum des Newsletters"
+
+#: features/class-Multipost_Newsletter_Template.php:628
+#: pro/class-Multipost_Newsletter_Template_HTML.php:154
+#@ multipost-newsletter
+msgid "Displays the contents if needed"
+msgstr "Zeigt das Inhaltsverzeichnis, falls gebraucht"
+
+#: features/class-Multipost_Newsletter_Template.php:629
+#: pro/class-Multipost_Newsletter_Template_HTML.php:155
+#@ multipost-newsletter
+msgid "Displays the footer"
+msgstr "Zeigt den Footer-Text"
+
+#: features/class-Multipost_Newsletter_Template.php:630
+#: pro/class-Multipost_Newsletter_Template_HTML.php:156
+#@ multipost-newsletter
+msgid "Displays the Posts"
+msgstr "Zeigt die Artikel"
+
+#: features/class-Multipost_Newsletter_Template.php:631
+#@ multipost-newsletter
+msgid "Display the PDF URL"
+msgstr "Zeigt die PDF URL"
+
+#: features/class-Multipost_Newsletter_Template.php:638
+#: pro/class-Multipost_Newsletter_Template_HTML.php:164
+#@ multipost-newsletter
+msgid "Single Post Template"
+msgstr "Artikel Template"
+
+#: features/class-Multipost_Newsletter_Template.php:644
+#: pro/class-Multipost_Newsletter_Template_HTML.php:170
+#@ multipost-newsletter
+msgid "Post Title"
+msgstr "Titel"
+
+#: features/class-Multipost_Newsletter_Template.php:645
+#: pro/class-Multipost_Newsletter_Template_HTML.php:171
+#@ multipost-newsletter
+msgid "Post Content"
+msgstr "Inhalt"
+
+#: features/class-Multipost_Newsletter_Template.php:646
+#: pro/class-Multipost_Newsletter_Template_HTML.php:172
+#@ multipost-newsletter
+msgid "Post Thumbnail"
+msgstr "Artikelbild"
+
+#: features/class-Multipost_Newsletter_Template.php:647
+#: pro/class-Multipost_Newsletter_Template_HTML.php:173
+#@ multipost-newsletter
+msgid "Post Date"
+msgstr "Datum"
+
+#: features/class-Multipost_Newsletter_Template.php:648
+#: pro/class-Multipost_Newsletter_Template_HTML.php:174
+#@ multipost-newsletter
+msgid "Post Author"
+msgstr "Autor"
+
+#: features/class-Multipost_Newsletter_Template.php:649
+#: pro/class-Multipost_Newsletter_Template_HTML.php:176
+#@ multipost-newsletter
+msgid "The permalink of the post"
+msgstr "Der Permalink vom Artikel"
+
+#: features/class-Multipost_Newsletter_Template.php:650
+#: pro/class-Multipost_Newsletter_Template_HTML.php:178
+#@ multipost-newsletter
+msgid "Your label here"
+msgstr "Deine Bezeichnung hier"
+
+#: features/class-Multipost_Newsletter_Template.php:650
+#: pro/class-Multipost_Newsletter_Template_HTML.php:178
+#@ multipost-newsletter
+msgid "Display a custom field"
+msgstr "Zeigt ein Benutzerdefiniertes Feld"
+
+#: features/class-Multipost_Newsletter_Widget.php:62
+#@ multipost-newsletter
+msgid "Use this widget to display the register formular."
+msgstr "Benutze dieses Widget, um das Registrierungsformular zu zeigen."
+
+#: features/class-Multipost_Newsletter_Widget.php:79
+#@ default
+msgid "Lost Password"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:194
+#@ default
+msgid "E-mail"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:275
+#@ multipost-newsletter
+msgid "Register for newsletter"
+msgstr "Für den Newsletter registrieren"
+
+#: features/class-Multipost_Newsletter_Widget.php:319
+#@ multipost-newsletter
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/html2text/html2text.php:454
+#@ multipost-newsletter
+msgid "Links:"
+msgstr "Links:"
+
+#. translators: plugin header field 'Name'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "Multipost Newsletter"
+msgstr "Multipost Newsletter"
+
+#. translators: plugin header field 'Description'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "The Multi Post Newsletter is a simple plugin, which provides to link several posts to a newsletter. This procedure is similar to the categories. Within the flexible configuration and templating, you're able to set the newsletters appearance to your requirement."
+msgstr "The Multi Post Newsletter is a simple plugin, which provides to link several posts to a newsletter. This procedure is similar to the categories. Within the flexible configuration and templating, you're able to set the newsletters appearance to your requirement."
+
+#. translators: plugin header field 'Author'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "Inpsyde GmbH"
+msgstr "Inpsyde GmbH"
+
+#. translators: plugin header field 'AuthorURI'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "http://inpsyde.com"
+msgstr "http://inpsyde.com"
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:523
+#@ multipost-newsletter
+msgid "The entered license key is wrong."
+msgstr "Der angegebene Lizenzschlüssel ist falsch!"
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:516
+#@ multipost-newsletter
+msgid "Plugin successfully activated."
+msgstr "Das Plugin wurde erfolgreich aktiviert."
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:337
+#@ multipost-newsletter
+msgid "License Key"
+msgstr "Lizenzschlüssel"
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:340
+#@ multipost-newsletter
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: pro/class-Multipost_Newsletter_Generate_HTML.php:222
+#@ multipost-newsletter
+msgid "Read the post online"
+msgstr "Diesen Artikel online lesen"
+
+#: pro/class-Multipost_Newsletter_Generate_PDF.php:205
+#@ multipost-newsletter
+msgid "Image Source: "
+msgstr "Bild Quelle: "
+
+#: pro/class-Multipost_Newsletter_Groups.php:93
+#@ multipost-newsletter
+msgid "Group has been added"
+msgstr "Gruppe wurde hinzugefügt"
+
+#: pro/class-Multipost_Newsletter_Groups.php:149
+#@ multipost-newsletter
+msgid "Group has been deleted"
+msgstr "Gruppe wurde gelöscht"
+
+#: pro/class-Multipost_Newsletter_Groups.php:178
+#@ multipost-newsletter
+msgid "Add New Group"
+msgstr "Neue Gruppe hinzufügen"
+
+#: pro/class-Multipost_Newsletter_Groups.php:185
+#@ multipost-newsletter
+msgid "Group Name"
+msgstr "Name der Gruppe"
+
+#: pro/class-Multipost_Newsletter_Groups.php:203
+#@ multipost-newsletter
+msgid "Add Group"
+msgstr "Gruppe hinzufügen"
+
+#: pro/class-Multipost_Newsletter_Groups.php:215
+#: pro/class-Multipost_Newsletter_Groups.php:223
+#@ default
+msgid "Name"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:217
+#: pro/class-Multipost_Newsletter_Groups.php:225
+#@ default
+msgid "Actions"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Recipients.php:555
+#: pro/class-Multipost_Newsletter_Groups.php:257
+#@ multipost-newsletter
+#@ default
+msgid "Delete"
+msgstr "Löschen"
+
+#: pro/class-Multipost_Newsletter_Groups.php:266
+#@ multipost-newsletter
+msgid "There are no groups yet"
+msgstr "Es wurden keine Gruppen angelegt."
+
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:98
+#@ multipost-newsletter
+msgid "SMTP Host"
+msgstr "SMTP Host"
+
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:114
+#@ multipost-newsletter
+msgid "Username"
+msgstr "Benutzername"
+
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:122
+#@ multipost-newsletter
+msgid "Password"
+msgstr "Passwort"
+
+#: pro/class-Multipost_Newsletter_PDF_Export.php:165
+#@ multipost-newsletter
+msgid "Written by "
+msgstr "Geschrieben von "
+
+#: pro/class-Multipost_Newsletter_PDF_Export.php:165
+#@ multipost-newsletter
+msgid " published at "
+msgstr " veröffentlicht am "
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:107
+#@ multipost-newsletter
+msgid "HTML Template"
+msgstr "HTML Template"
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:113
+#@ multipost-newsletter
+msgid "Background-Color (even)"
+msgstr "Hintergrundfarbe (gerade)"
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:121
+#@ multipost-newsletter
+msgid "Background-Color (odd)"
+msgstr "Hintergrundfarbe (ungerade)"
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:129
+#@ multipost-newsletter
+msgid "HTML Header Template"
+msgstr "HTML Header Template"
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:137
+#@ multipost-newsletter
+msgid "HTML Footer Template"
+msgstr "HTML Footer Template"
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:175
+#, php-format
+#@ multipost-newsletter
+msgid "Displays the color setted up in the \\\"Background-Color\\\"-Section. Use it like this: &lt;div style=\\\"background: #%COLOR%;\\\"&gt; ..."
+msgstr "Zeigt die entprechende Farbe an, die in der \\\"Hintergrundfarbe\\\"-Sektion eingestellt worden ist. Benutzung via: &lt;div style=\\\"background: #%COLOR%;\\\"&gt; ..."
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:177
+#@ multipost-newsletter
+msgid "Important for the Contents. It posts a &lt;a name=\"\"&gt;&lt;/a&gt;"
+msgstr "Wichtig für das Inhaltsverzeichnis. Es erstellt einen Link wie &lt;a name=\"\"&gt;&lt;/a&gt;"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:100
+#@ multipost-newsletter
+msgid "Headline"
+msgstr "Überschrift"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:101
+#@ multipost-newsletter
+msgid "Description"
+msgstr "Beschreibung"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:102
+#@ multipost-newsletter
+msgid "Subline (the date is located there)"
+msgstr "Metazeile (Datum und Autor wird angezeigt)"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:103
+#@ multipost-newsletter
+msgid "Content Headline"
+msgstr "Inhaltsüberschrift"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:104
+#@ multipost-newsletter
+msgid "Content"
+msgstr "Inhalt"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:105
+#@ multipost-newsletter
+msgid "Content Footer (Authordata, Category, Postdate)"
+msgstr "Meta-Angaben (Author, Kategorie, Datum)"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:106
+#@ multipost-newsletter
+msgid "Page Numbers"
+msgstr "Meta-Angaben (Author, Kategorie, Datum)"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:113
+#@ multipost-newsletter
+msgid "PDF Template"
+msgstr "PDF Template"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:115
+#@ multipost-newsletter
+msgid "The Multipost Newsletter uses FPDF to generate the PDF dynamically. Due to this we have some restrictions to template the PDF. In future we are planning a feature to make this easier and better."
+msgstr "Der Multipost Newsletter nutzt FPDF um PDF Dokumente dynamisch zu generieren. Aufgrund dessen unterliegen wir einigen Restriktionen, was das Templating betrifft."
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:138
+#, php-format
+#@ multipost-newsletter
+msgid "Show %s"
+msgstr "Zeige %s"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:147
+#@ multipost-newsletter
+msgid "Font"
+msgstr "Schriftart"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:159
+#@ multipost-newsletter
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:163
+#@ multipost-newsletter
+msgid "Note: FPDF uses pt"
+msgstr "Notiz: FPDF benutzt pt"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:168
+#@ multipost-newsletter
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:171
+#: pro/class-Multipost_Newsletter_Template_PDF.php:341
+#: pro/class-Multipost_Newsletter_Template_PDF.php:352
+#@ multipost-newsletter
+msgid "Red"
+msgstr "Rot"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:172
+#: pro/class-Multipost_Newsletter_Template_PDF.php:342
+#: pro/class-Multipost_Newsletter_Template_PDF.php:353
+#@ multipost-newsletter
+msgid "Green"
+msgstr "Grün"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:173
+#: pro/class-Multipost_Newsletter_Template_PDF.php:343
+#: pro/class-Multipost_Newsletter_Template_PDF.php:354
+#@ multipost-newsletter
+msgid "Blue"
+msgstr "Blau"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:174
+#: pro/class-Multipost_Newsletter_Template_PDF.php:344
+#: pro/class-Multipost_Newsletter_Template_PDF.php:355
+#@ multipost-newsletter
+msgid "Here, we are using the RGB color model"
+msgstr "Hier wird das RGB-Farbmodell benutzt"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:180
+#: pro/class-Multipost_Newsletter_Template_PDF.php:214
+#: pro/class-Multipost_Newsletter_Template_PDF.php:246
+#: pro/class-Multipost_Newsletter_Template_PDF.php:277
+#: pro/class-Multipost_Newsletter_Template_PDF.php:308
+#@ multipost-newsletter
+msgid "Position X"
+msgstr "Position X"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:188
+#: pro/class-Multipost_Newsletter_Template_PDF.php:222
+#: pro/class-Multipost_Newsletter_Template_PDF.php:254
+#: pro/class-Multipost_Newsletter_Template_PDF.php:285
+#: pro/class-Multipost_Newsletter_Template_PDF.php:316
+#@ multipost-newsletter
+msgid "Position Y"
+msgstr "Position Y"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:199
+#@ multipost-newsletter
+msgid "We also offer a neat way to place some decoration images in the PDF. Just insert the full path (not URL!) to the images here"
+msgstr "Wir bieten hier außerdem einen Weg an, dekorative Bilder im PDF zu platzieren. Dazu muss einfach der volle Pfad (nicht die URL!) angegeben werden."
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:200
+#@ multipost-newsletter
+msgid "Logo"
+msgstr "Logo"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:205
+#@ multipost-newsletter
+msgid "Full path to logo"
+msgstr "Voller Pfad zum Logo"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:209
+#: pro/class-Multipost_Newsletter_Template_PDF.php:241
+#: pro/class-Multipost_Newsletter_Template_PDF.php:272
+#: pro/class-Multipost_Newsletter_Template_PDF.php:303
+#@ multipost-newsletter
+msgid "You can find the path under Media -> Overview -> Edit Media File"
+msgstr "Du kannst den Pfad unter Mediathek -> Übersicht -> Editieren finden"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:231
+#@ multipost-newsletter
+msgid "Watermark"
+msgstr "Wasserzeichen"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:236
+#@ multipost-newsletter
+msgid "Full path to watermark"
+msgstr "Voller Pfad zum Wasserzeichen"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:237
+#@ multipost-newsletter
+msgid "This image is placed on the background on every page except the first"
+msgstr "Dieses Bild wird im Hintergrund jeder Seite eingefügt, außer auf der Ersten."
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:263
+#@ multipost-newsletter
+msgid "Corner Bottom Left"
+msgstr "Ecke unten links"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:268
+#@ multipost-newsletter
+msgid "Full path to corner bottom right (odd pages)"
+msgstr "Voller Pfad zum Bild"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:294
+#@ multipost-newsletter
+msgid "Corner Bottom Right"
+msgstr "Ecke unten rechts"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:299
+#@ multipost-newsletter
+msgid "Full path to corner bottom left (even pages)"
+msgstr "Voller Pfad zum Bild"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:325
+#@ multipost-newsletter
+msgid "Other Stuff"
+msgstr "Andere Einstellungen"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:330
+#@ multipost-newsletter
+msgid "Height of the Topbar on every page except the first"
+msgstr "Höhe des Balkens auf jeder Seite außer der Ersten"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:338
+#@ multipost-newsletter
+msgid "Color of the Topbar on every page except the first"
+msgstr "Farbe des Balkens auf jeder Seite außer der Ersten"
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:349
+#@ multipost-newsletter
+msgid "Link color"
+msgstr "Linkfarbe"
+
+#: features/class-Multipost_Newsletter_Help.php:61
+#: features/class-Multipost_Newsletter_Help.php:73
+#@ multipost-newsletter
+msgid "In order to the KISS-Principles we donot want to offer many options to set."
+msgstr "Aufgrund des KISS-Prinzips werden wir nicht sonderlich viele Optionen zum Einstellen anbieten."
+
+#: features/class-Multipost_Newsletter_Help.php:62
+#@ multipost-newsletter
+msgid "Sender Options"
+msgstr "Absender Optionen"
+
+#: features/class-Multipost_Newsletter_Help.php:63
+#@ multipost-newsletter
+msgid "The newsletter definitly needs a sender name and a sender email. If you send the newsletter to your recipients, they will be displayed in the \"From\"-section. You also have to set the recipient for the testmail to check the newsletter before it will be published."
+msgstr "Der Newsletter braucht per Definition einen Absendername und eine Absenderemail. Wenn du den Newsletter an Deine Empfänger schickst, erscheinen diese Angaben in der \\\"Von\\\"-Sektion. Außerdem musst Du mindestens einen Empfänger für die Testmail angeben."
+
+#: features/class-Multipost_Newsletter_Help.php:64
+#@ multipost-newsletter
+msgid "Custom Post Types"
+msgstr "Custom Post Types"
+
+#: features/class-Multipost_Newsletter_Help.php:65
+#@ multipost-newsletter
+msgid "The Multipost Newsletter provides a support for all post types. Just activate the post types here to enable the functionality to set the edition for the types."
+msgstr "Der Multipost Newsletter bringt den Support für Custom Post Types mit. Du musst nur die entsprechenden Typen aktivieren, um die Funktion eine Edition zu setzen frei zu schalten."
+
+#: features/class-Multipost_Newsletter_Help.php:69
+#@ multipost-newsletter
+msgid "General Options"
+msgstr "Allgemeine Optionen"
+
+#: features/class-Multipost_Newsletter_Help.php:74
+#: features/class-Multipost_Newsletter_Help.php:79
+#@ multipost-newsletter
+msgid "SMTP Settings"
+msgstr "SMTP Einstellungen"
+
+#: features/class-Multipost_Newsletter_Help.php:75
+#@ multipost-newsletter
+msgid "The Multipost Newsletter offers a way to send the newsletter over SMTP. Just insert your credentials. Leave the values blank to delete the credentials."
+msgstr "Der Multipost Newsletter kann die Newsletter auch über SMTP senden. Dafür müssen einfach nur die entsprechenden Zugangsdaten angegeben werden. Um sie zu löschen, müssen die Felder einfach leer gelassen werden."
+
+#. translators: plugin header field 'PluginURI'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "http://marketpress.com/product/multipost-newsletter/"
+msgstr "http://marketpress.com/product/multipost-newsletter/"
+
+#: features/class-Multipost_Newsletter_Create.php:235
+#@ multipost-newsletter
+msgid "You didnot choose an edition!"
+msgstr "Du hast keine Edition gewählt!"
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:315
+#@ multipost-newsletter
+msgid "You are currently using a valid key for this plugin. You are able to renew the key in the MarketPress Dashboard. Or if you want to add an other valid code use the form below."
+msgstr "Du benutzt aktuell einen validen Lizenzschlüssel für das Plugin. Du kannst den Schlüssel im MarketPress Dashboard ändern. Wenn du willst, kannst du auch im Formular unten einen anderen Schlüssel angeben."
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:330
+#, php-format
+#@ multipost-newsletter
+msgid "You are currently using a valid key for this plugin. You are able to renew the key below or you can delete the key by <a href=\"%s\">clicking here</a>."
+msgstr "Du benutzt einen validen Lizenzschlüssel für dieses Plugin. Du kannst den Schlüssel unten aktualisieren oder ihn löschen, wenn du <a href=\"%s\">hier klickst</a>."
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:509
+#@ multipost-newsletter
+msgid "The License has been deleted."
+msgstr "Der Lizenzschlüssel wurde gelöscht."
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:530
+#@ multipost-newsletter
+msgid "You have reached the limit of urls. Please update your license at <a href=\"http://marketpress.com\">marketpress.com</a>."
+msgstr "Sie haben die maximale Anzahl der URLs erreicht. Bitte überprüfe deine Lizenz bei <a href=\"http://marketpress.com\">marketpress.com</a>."
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:537
+#@ multipost-newsletter
+msgid "Something went wrong. Please try again later or contact the <a href=\"http://marketpress.com/support/\">marketpress team</a>."
+msgstr "Irgendwas lief schief. Bitte versuche es später noch mals oder kontaktiere uns über das <a href=\"http://marketpress.com/support/\">Support Forum</a>."
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:544
+#@ multipost-newsletter
+msgid "Due to a wrong license you are not allowed to activate this plugin. Please update your license at <a href=\"http://marketpress.com\">marketpress.com</a>."
+msgstr "Da der Lizenzschlüssel falsch ist, kann es nicht aktiviert werden. Bitte überprüfe deinen Schlüssel auf <a href=\"http://marketpress.com\">marketpress.com</a>."
+
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:106
+#@ multipost-newsletter
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: features/class-Multipost_Newsletter_Create.php:304
+#@ multipost-newsletter
+msgid "Testmail has been send. If you want to send another one, just reload this page!"
+msgstr "Testmail wurde gesendet. Wenn du noch eine bekommen möchtest, lad einfach diese Seite neu!"
+
+#: features/class-Multipost_Newsletter_Create.php:333
+#@ multipost-newsletter
+msgid "Recipient Groups"
+msgstr "Empfänger Gruppen"
+
+#: features/class-Multipost_Newsletter_Create.php:335
+#@ multipost-newsletter
+msgid "Maybe chose recipient groups"
+msgstr "Empfängergruppen wählen (optional)"
+
+#: features/class-Multipost_Newsletter_Create.php:340
+#@ multipost-newsletter
+msgid "Here you are able to chose the recipient groups. The created newsletter only will be send to them.<br /><strong>Important:</strong> If you don't chose a group the newsletter will be send to all subscribers."
+msgstr "Hier hast du die Möglichkeit Empfängergruppen auszuwählen. Der erstellte Newsletter wird nur an diese gesendet.<br /><strong>Wichtig:</strong> Wenn du keine Gruppe wählst, wird der Newsletter an alle Empfänger versendet."
+
+#: features/class-Multipost_Newsletter_Init.php:168
+#: features/class-Multipost_Newsletter_Recipients.php:63
+#@ multipost-newsletter
+msgid "Recipients"
+msgstr "Empfänger"
+
+#: features/class-Multipost_Newsletter_Prepare.php:496
+#@ multipost-newsletter
+msgid "Remove Post from edition"
+msgstr "Entferne Post aus dieser Edition"
+
+#: features/class-Multipost_Newsletter_Recipients.php:64
+#@ multipost-newsletter
+msgid "Import"
+msgstr "Import"
+
+#: features/class-Multipost_Newsletter_Recipients.php:79
+#@ multipost-newsletter
+msgid "Newsletter Recipients "
+msgstr "Newsletter Empfänger "
+
+#: features/class-Multipost_Newsletter_Recipients.php:101
+#: features/class-Multipost_Newsletter_Widget.php:125
+#@ multipost-newsletter
+msgid "Please enter a valid e-mail address!"
+msgstr "Bitte gib eine valide E-Mailadresse an!"
+
+#: features/class-Multipost_Newsletter_Recipients.php:104
+#@ multipost-newsletter
+msgid "Something went wrong! Please consult your administrator!"
+msgstr "Irgendwas lief schief! Bitte kontaktier deinen Administrator!"
+
+#: features/class-Multipost_Newsletter_Recipients.php:107
+#@ multipost-newsletter
+msgid "If you want to import e-mails you should give us some ;)"
+msgstr "Wenn du E-Mailadressen importieren willst, solltest du uns schon welche geben ;)"
+
+#: features/class-Multipost_Newsletter_Recipients.php:110
+#@ multipost-newsletter
+msgid "Recipient has been updated."
+msgstr "Empfänger wurde aktualisiert."
+
+#: features/class-Multipost_Newsletter_Recipients.php:113
+#, php-format
+#@ multipost-newsletter
+msgid "%s Recipients have been imported."
+msgstr "%s Empfänger wurden importiert."
+
+#: features/class-Multipost_Newsletter_Recipients.php:186
+#@ multipost-newsletter
+msgid "Recipient not found!"
+msgstr "Empfänger nicht gefunden!"
+
+#: features/class-Multipost_Newsletter_Recipients.php:193
+#: features/class-Multipost_Newsletter_Recipients.php:301
+#@ multipost-newsletter
+msgid "Edit Recipient"
+msgstr "Editiere Empfänger"
+
+#: features/class-Multipost_Newsletter_Recipients.php:200
+#: features/class-Multipost_Newsletter_Recipients.php:525
+#: features/class-Multipost_Newsletter_Recipients.php:538
+#@ multipost-newsletter
+msgid "E-Mail"
+msgstr "E-Mail:"
+
+#: features/class-Multipost_Newsletter_Recipients.php:204
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:74
+#@ multipost-newsletter
+msgid "Newsletter Type"
+msgstr "Newsletter Typ"
+
+#: features/class-Multipost_Newsletter_Recipients.php:208
+#@ multipost-newsletter
+msgid "If you or the recipient don't chose a type of the newsletter <code>text</code> will be setted."
+msgstr "Wenn du oder der Empfänger keinen Typ wählt, wird automatisch <code>text</code> gesetzt."
+
+#: features/class-Multipost_Newsletter_Recipients.php:219
+#: features/class-Multipost_Newsletter_Widget.php:207
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:88
+#@ multipost-newsletter
+msgid "Chose some groups"
+msgstr "Wähle ein paar Gruppen"
+
+#: features/class-Multipost_Newsletter_Recipients.php:224
+#@ multipost-newsletter
+msgid "If you or the recipient don't chose a group the recipient only will receive the global newsletters."
+msgstr "Wenn du oder der Empfänger keine Gruppe auswählt, bekommt er nur die globalen Newsletter."
+
+#: features/class-Multipost_Newsletter_Recipients.php:286
+#: features/class-Multipost_Newsletter_Recipients.php:508
+#: features/class-Multipost_Newsletter_Recipients.php:528
+#: features/class-Multipost_Newsletter_Recipients.php:541
+#@ multipost-newsletter
+msgid "Activated"
+msgstr "Activiert"
+
+#: features/class-Multipost_Newsletter_Recipients.php:288
+#@ multipost-newsletter
+msgid "User is activated"
+msgstr "Benutzer ist aktiviert."
+
+#: features/class-Multipost_Newsletter_Recipients.php:292
+#@ multipost-newsletter
+msgid "Key"
+msgstr "Schlüssel"
+
+#: features/class-Multipost_Newsletter_Recipients.php:295
+#, php-format
+#@ multipost-newsletter
+msgid "This is the activation key for this recipient. If the user is not activated an heads to <code>%s</code> the recipient will be activated for your newsletter."
+msgstr "Das ist der Aktivierungsschlüssel für den Empfänger. Wenn der Benutzer noch nicht aktiviert ist und auf <code>%s</code> wechselt, wird er für den Newsletter aktiviert."
+
+#: features/class-Multipost_Newsletter_Recipients.php:507
+#@ multipost-newsletter
+msgid "All"
+msgstr "Alle"
+
+#: features/class-Multipost_Newsletter_Recipients.php:509
+#@ multipost-newsletter
+msgid "Not Activated"
+msgstr "Nicht aktiviert"
+
+#: features/class-Multipost_Newsletter_Recipients.php:517
+#@ multipost-newsletter
+msgid "Search Recipients"
+msgstr "Suche Empfänger"
+
+#: features/class-Multipost_Newsletter_Recipients.php:526
+#: features/class-Multipost_Newsletter_Recipients.php:539
+#@ multipost-newsletter
+msgid "Registered"
+msgstr "Registriert"
+
+#: features/class-Multipost_Newsletter_Recipients.php:552
+#: features/class-Multipost_Newsletter_Recipients.php:554
+#@ multipost-newsletter
+msgid "Edit recipient"
+msgstr "Editiere Empfänger"
+
+#: features/class-Multipost_Newsletter_Recipients.php:554
+#@ multipost-newsletter
+msgid "Edit"
+msgstr "Editieren"
+
+#: features/class-Multipost_Newsletter_Recipients.php:555
+#@ multipost-newsletter
+msgid "Delete recipient"
+msgstr "Empfänger löschen"
+
+#: features/class-Multipost_Newsletter_Recipients.php:560
+#@ multipost-newsletter
+msgid "not activated"
+msgstr "nicht aktiviert"
+
+#: features/class-Multipost_Newsletter_Recipients.php:560
+#@ multipost-newsletter
+msgid "activated"
+msgstr "aktiviert"
+
+#: features/class-Multipost_Newsletter_Recipients.php:569
+#@ multipost-newsletter
+msgid "Sorry, no recipients found for your query."
+msgstr "Tschuldigung, für deine Anfrage wurden keine Empfänger gefunden."
+
+#: features/class-Multipost_Newsletter_Recipients.php:609
+#, php-format
+#@ multipost-newsletter
+msgid "%s items"
+msgstr "%s Stück"
+
+#: features/class-Multipost_Newsletter_Recipients.php:611
+#@ multipost-newsletter
+msgid "Go to the first page"
+msgstr "Zur ersten Seite wechseln."
+
+#: features/class-Multipost_Newsletter_Recipients.php:612
+#@ multipost-newsletter
+msgid "Go to the previous page"
+msgstr "Zur vorherigen Seite wechseln"
+
+#: features/class-Multipost_Newsletter_Recipients.php:614
+#@ multipost-newsletter
+msgid "Current page"
+msgstr "Aktuelle Seite"
+
+#: features/class-Multipost_Newsletter_Recipients.php:616
+#@ multipost-newsletter
+msgid "Go to the next page"
+msgstr "Zur nächsten Seite wechseln"
+
+#: features/class-Multipost_Newsletter_Recipients.php:617
+#@ multipost-newsletter
+msgid "Go to the last page"
+msgstr "Zur letzten Seite wechseln"
+
+#: features/class-Multipost_Newsletter_Recipients.php:640
+#@ multipost-newsletter
+msgid "You have to purchase the pro-version of this plugin to import subscribers!"
+msgstr "Du musst die Pro-Version des Plugins kaufen, um Empfänger zu importieren"
+
+#: features/class-Multipost_Newsletter_Template.php:481
+#: features/class-Multipost_Newsletter_Template.php:494
+#: features/class-Multipost_Newsletter_Template.php:632
+#: pro/class-Multipost_Newsletter_Template_HTML.php:158
+#@ multipost-newsletter
+msgid "Display the link so that a recipient is able to unsubscribe from the newsletter. It just provides the http-address like <code>http://yourblog.com/unsubscribe...</code>."
+msgstr "Zeigt den Link für den Empfänger an, um sich abzumelden. Es zeigt nur die Adresse, wie <code>http://yourblog.com/unsubscribe...</code> an."
+
+#: features/class-Multipost_Newsletter_Widget.php:131
+#@ multipost-newsletter
+msgid "Sorry, this recipient already exists!"
+msgstr "Sorry, dieser Empfänger existiert bereits!"
+
+#: features/class-Multipost_Newsletter_Widget.php:162
+#@ multipost-newsletter
+msgid "Request to subscribe to our newsletter"
+msgstr "Am Newsletter anmelden"
+
+#: features/class-Multipost_Newsletter_Recipients.php:665
+#: features/class-Multipost_Newsletter_Widget.php:163
+#@ multipost-newsletter
+msgid "Hello,"
+msgstr "Hallo,"
+
+#: features/class-Multipost_Newsletter_Widget.php:164
+#@ multipost-newsletter
+msgid "We got a request that you want to subscribe to our newsletter."
+msgstr "Wir haben eine Anfrage, dass du dich an unserem Newsletter anmelden willst."
+
+#: features/class-Multipost_Newsletter_Recipients.php:667
+#: features/class-Multipost_Newsletter_Widget.php:165
+#@ multipost-newsletter
+msgid "If you really want to do that, click the following link."
+msgstr "Wenn du das wirklich tun willst, klick auf den folgenden Link."
+
+#: features/class-Multipost_Newsletter_Recipients.php:668
+#: features/class-Multipost_Newsletter_Widget.php:166
+#@ multipost-newsletter
+msgid "If this mail is a mistake, please ignore it."
+msgstr "Wenn diese Mail ein Fehler ist, ignorier sie am Besten."
+
+#: features/class-Multipost_Newsletter_Recipients.php:670
+#: features/class-Multipost_Newsletter_Widget.php:168
+#@ multipost-newsletter
+msgid "Best regards,"
+msgstr "Viele Grüße,"
+
+#: features/class-Multipost_Newsletter_Recipients.php:671
+#: features/class-Multipost_Newsletter_Widget.php:169
+#: templates/activation.php:28
+#: templates/confirmunsubscription.php:28
+#: templates/unsubscribe.php:28
+#, php-format
+#@ multipost-newsletter
+msgid "The %s Team"
+msgstr "Das %s Team"
+
+#: features/class-Multipost_Newsletter_Widget.php:187
+#@ multipost-newsletter
+msgid "You have been registered successfully. You'll now get an email to activate your subscription."
+msgstr "Du wurdest erfolgreich am Newsletter registriert. Du bekommst nun eine E-Mail um dein Abo zu aktivieren."
+
+#: features/class-Multipost_Newsletter_Widget.php:200
+#@ multipost-newsletter
+msgid "If you don't chose a type, text will be setted automatically."
+msgstr "Wenn du keinen Typ wählst, wird text automatisch gesetzt."
+
+#: features/class-Multipost_Newsletter_Widget.php:267
+#@ default
+msgid "Subscribe"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:268
+#@ multipost-newsletter
+msgid "Want to unsubscribe?"
+msgstr "Abmelden?"
+
+#: features/class-Multipost_Newsletter_Widget.php:272
+#@ multipost-newsletter
+msgid "To unsubscribe please enter your key. If you don't have one, please contact the webmaster."
+msgstr "Um dich abzumelden, musst du deinen Schlüssel angeben. Wenn du keinen hast, wende dich an den Webmaster."
+
+#: features/class-Multipost_Newsletter_Widget.php:273
+#@ default
+msgid "Please enter your key"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:305
+#: features/class-Multipost_Newsletter_Widget.php:274
+#@ multipost-newsletter
+#@ default
+msgid "Unsubscribe"
+msgstr "Abmelden"
+
+#. translators: plugin header field 'Version'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "1.1"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:61
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:100
+#@ multipost-newsletter
+msgid "Import Recipients"
+msgstr "Importiere Empfänger"
+
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:67
+#@ multipost-newsletter
+msgid "E-Mails"
+msgstr "E-Mails"
+
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:70
+#@ multipost-newsletter
+msgid "Insert the e-mails of the recipients seperated by comma."
+msgstr "Füge hier die E-Mails der Empfänger komma separiert ein."
+
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:78
+#@ multipost-newsletter
+msgid "If you don't chose a type of the newsletter <code>text</code> will be setted for each user."
+msgstr "Wenn du keinen Typ für den Newsletter wählst, wird automatisch text gesetzt."
+
+#: pro/class-Multipost_Newsletter_Recipients_Import.php:93
+#@ multipost-newsletter
+msgid "If you don't chose a group the recipient only will receive the global newsletters."
+msgstr "Wenn du keine Gruppe wählst, wird der Empfänger nur globale Newsletter bekommen."
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:121
+#@ multipost-newsletter
+msgid "Don't generate PDF"
+msgstr "Generiere das PDF nicht."
+
+#: templates/activation.php:10
+#: templates/confirmunsubscription.php:10
+#: templates/unsubscribe.php:10
+#@ multipost-newsletter
+msgid "Sorry, you have to give us a key to work with."
+msgstr "Sorry, du musst uns einen Schlüssel geben, um damit arbeiten zu können."
+
+#: features/class-Multipost_Newsletter_Recipients.php:656
+#: features/class-Multipost_Newsletter_Recipients.php:720
+#: features/class-Multipost_Newsletter_Recipients.php:741
+#@ multipost-newsletter
+msgid "Sorry, there is no recipient with this key."
+msgstr "Sorry, es gibt keinen Empfänger mit diesem Schlüssel."
+
+#: features/class-Multipost_Newsletter_Recipients.php:745
+#@ default
+msgid "Sorry, this recipient is already activated."
+msgstr ""
+
+#: templates/activation.php:19
+#@ multipost-newsletter
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: templates/activation.php:27
+#@ multipost-newsletter
+msgid "You successfully subscribed to our newsletter."
+msgstr "Du hast dich erfolgreich am Newsletter angemeldet."
+
+#: features/class-Multipost_Newsletter_Recipients.php:724
+#@ default
+msgid "Sorry, this recipient didn't got an unsubscription mail."
+msgstr ""
+
+#: templates/confirmunsubscription.php:19
+#: templates/unsubscribe.php:19
+#@ multipost-newsletter
+msgid "Unsubscribtion"
+msgstr "Abmeldung"
+
+#: templates/confirmunsubscription.php:27
+#@ multipost-newsletter
+msgid "You successfully unsubscribed from our newsletter."
+msgstr "Du hast dich erfolgreich vom Newsletter abgemeldet."
+
+#: features/class-Multipost_Newsletter_Recipients.php:660
+#@ default
+msgid "Sorry, this recipient already got an unsubscription mail."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Recipients.php:664
+#@ multipost-newsletter
+msgid "Request to unsubscribe from newsletter"
+msgstr "Vom Newsletter abmelden."
+
+#: features/class-Multipost_Newsletter_Recipients.php:666
+#@ multipost-newsletter
+msgid "We got a request that you want to unsubscribe from our newsletter."
+msgstr "Wir haben eine Anfrage, dass du dich vom Newsletter abmelden möchtest."
+
+#: templates/unsubscribe.php:27
+#@ multipost-newsletter
+msgid "To unsubscribe from our newsletter, you will receive an e-mail with the confirmation link."
+msgstr "Um dich von unserem Newsletter abzumelden wirst du eine E-Mail mit einem Link erhalten."
+
+#: features/class-Multipost_Newsletter_Create.php:323
+#@ multipost-newsletter
+msgid "Please chose an API to send the newsletter. If you really don't know what to chose, select <code>Send over WordPress</code>."
+msgstr "Bitte wähle eine API aus, über die der Newsletter versendet werden soll. Wenn du nicht weißt, was du wählen sollst, dann wähle einfach \\\"Über WordPress senden\\\"."
+
+#: features/class-Multipost_Newsletter_Options.php:203
+#@ multipost-newsletter
+msgid "Supported Post Types"
+msgstr "Unterstützte Post Types"
+
+#: features/class-Multipost_Newsletter_Options.php:205
+#@ multipost-newsletter
+msgid "Here you are able to enable different post types for the newsletter. If you enable one you will have the possibility to add their content to an edition."
+msgstr "Hier hast du die Möglichkeit verschiedene Post Types für den Newsletter frei zuschalten. Wenn du das tust, hast du danach die Möglichkeit die Inhalte in Editionen hinzu zufügen."
+
+#: features/class-Multipost_Newsletter_Options.php:224
+#@ multipost-newsletter
+msgid "Sender E-Mail Settings"
+msgstr "Absender E-Mail Einstellungen"
+
+#: features/class-Multipost_Newsletter_Options.php:226
+#@ multipost-newsletter
+msgid "Setup your sender options here. The newsletter definitly needs a sender name and a sender email. If you send the newsletter to your recipients, they will be displayed in the \"From\"-section. You also have to set the recipient for the testmail to check the newsletter before it will be published."
+msgstr "Stelle hier deine Absenderoptionen ein. Der Newsletter braucht definitiv einen Absendernamen und eine Absender-E-Mail. Wenn du den Newsletter an deine Empfänger sendest, werden diese Einstellungen in der \"Von\"-Sektion des E-Mailprogrammes angezeigt. Außerdem musst du einen Empfänger für die Testmail angeben, damit du den Newsletter testen kannst."
+
+#: features/class-Multipost_Newsletter_Recipients.php:371
+#@ multipost-newsletter
+msgid "Recipient has been deleted!"
+msgstr "Empfänger wurde gelöscht."
+
+#: features/class-Multipost_Newsletter_Recipients.php:373
+#@ multipost-newsletter
+msgid "Recipient does not exists!"
+msgstr "Empfänger existiert nicht!"
+
+#: pro/class-Multipost_Newsletter_Groups.php:112
+#@ multipost-newsletter
+msgid "Group has been setted to private."
+msgstr "Die Gruppe wurde auf privat gesetzt."
+
+#: pro/class-Multipost_Newsletter_Groups.php:131
+#@ multipost-newsletter
+msgid "Group has been setted to public."
+msgstr "Die Gruppe wurde auf öffentlich gesetzt."
+
+#: pro/class-Multipost_Newsletter_Groups.php:193
+#@ multipost-newsletter
+msgid "Private Group"
+msgstr "Private Gruppe"
+
+#: pro/class-Multipost_Newsletter_Groups.php:197
+#@ multipost-newsletter
+msgid "Enable this checkbox to set this group to private. The recipient will not be able to see this group in the widget."
+msgstr "Aktiviere diese Checkbox um die Gruppe auf privat zu stellen. Empfänger haben im Widget dann nicht mehr die Möglichkeit diese Gruppe aus zuwählen."
+
+#: pro/class-Multipost_Newsletter_Groups.php:216
+#: pro/class-Multipost_Newsletter_Groups.php:224
+#@ multipost-newsletter
+msgid "Privacy"
+msgstr "Privatsphäre"
+
+#: pro/class-Multipost_Newsletter_Groups.php:243
+#@ multipost-newsletter
+msgid "Private"
+msgstr "Privat"
+
+#: pro/class-Multipost_Newsletter_Groups.php:245
+#@ multipost-newsletter
+msgid "Public"
+msgstr "Öffentlich"
+
+#: pro/class-Multipost_Newsletter_Groups.php:252
+#@ multipost-newsletter
+msgid "Change to public"
+msgstr "Änder auf öffentlich"
+
+#: pro/class-Multipost_Newsletter_Groups.php:254
+#@ multipost-newsletter
+msgid "Change to private"
+msgstr "Änder auf privat"
+
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:93
+#@ multipost-newsletter
+msgid "The Multipost Newsletter offers a way to send the newsletter over SMTP. Just insert your credentials. Leave the values blank to delete the credentials. If you don't want to send the newsletter over SMTP just leave the following fields empty."
+msgstr "Der Multipost Newsletter bietet die Möglichkeit die Newsletter über SMTP zu versenden. Gib dazu einfach deine Zugangsdaten an. Wenn du dieses Feature nicht nutzen möchtest, lass die folgenden Felder einfach leer."
+
+#: features/class-Multipost_Newsletter_Prepare.php:280
+#@ multipost-newsletter
+msgid "Prepare Posts"
+msgstr "Posts vorbereiten"
+
+#: features/class-Multipost_Newsletter_Prepare.php:285
+#@ multipost-newsletter
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: features/class-Multipost_Newsletter_Prepare.php:787
+#@ multipost-newsletter
+msgid "<strong>Important Note:</strong> The settings made here will be automatically saved. If you finished the prepare process, you can head to Newsletter Create."
+msgstr "<strong>Wichtiger Hinweis:</strong> Die hier gemachten Einstellungen werden automatisch gespeichert. Wenn du mit der Vorbereitung fertig bist, kannst du den Newsletter erstellen."
+
+#: features/class-Multipost_Newsletter_Create.php:161
+#: features/class-Multipost_Newsletter_Prepare.php:200
+#: features/class-Multipost_Newsletter_Recipients.php:243
+#: features/class-Multipost_Newsletter_Taxonomy.php:179
+#: features/class-Multipost_Newsletter_Widget.php:226
+#@ multipost-newsletter
+msgid "All Subject Areas"
+msgstr "Alle Themenbereiche"
+
+#: features/class-Multipost_Newsletter_Init.php:167
+#: features/class-Multipost_Newsletter_Recipients.php:240
+#: features/class-Multipost_Newsletter_Recipients.php:529
+#: features/class-Multipost_Newsletter_Recipients.php:542
+#: features/class-Multipost_Newsletter_Taxonomy.php:132
+#: features/class-Multipost_Newsletter_Taxonomy.php:178
+#@ multipost-newsletter
+msgid "Subject Areas"
+msgstr "Themenbereiche"
+
+#: features/class-Multipost_Newsletter_Recipients.php:242
+#: features/class-Multipost_Newsletter_Widget.php:225
+#@ multipost-newsletter
+msgid "Chose some subject areas"
+msgstr "Wähle ein paar Themenbereiche"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:91
+#: features/class-Multipost_Newsletter_Taxonomy.php:185
+#@ multipost-newsletter
+msgid "Subject Area"
+msgstr "Themenbereich"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:180
+#@ multipost-newsletter
+msgid "Edit Subject Area"
+msgstr "Themenbereich editieren"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:181
+#@ multipost-newsletter
+msgid "Parent Subject Area"
+msgstr "Übergeordneter Themenbereich"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:182
+#@ multipost-newsletter
+msgid "Update Subject Area"
+msgstr "Themenbereiche editieren"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:183
+#@ multipost-newsletter
+msgid "Search Subject Areas"
+msgstr "Durchsuche Themenbereiche"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:184
+#: features/class-Multipost_Newsletter_Taxonomy.php:186
+#@ multipost-newsletter
+msgid "Add Subject Area"
+msgstr "Füge Themenbereich hinzu"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:187
+#@ multipost-newsletter
+msgid "Popular Subject Areas"
+msgstr "Populäre Themenbereiche"
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:188
+#@ multipost-newsletter
+msgid "Parent Subject Area:"
+msgstr "Übergeordneter Themenbereich:"
+
+#: features/class-Multipost_Newsletter_Init.php:254
+#@ multipost-newsletter
+msgid "WELCOME"
+msgstr "WILLKOMMEN"
+
+#: features/class-Multipost_Newsletter_Init.php:268
+#@ multipost-newsletter
+msgid "CONTENTS"
+msgstr "INHALTSVERZEICHNIS"
+
+#: features/class-Multipost_Newsletter_Init.php:285
+#@ multipost-newsletter
+msgid "IMPRINT &amp; CONTACT"
+msgstr "IMPRESSUM &amp; KONTAKT"
+
+#: features/class-Multipost_Newsletter_Init.php:300
+#@ multipost-newsletter
+msgid "Imprint"
+msgstr "Impressum"
+
+#: features/class-Multipost_Newsletter_Init.php:359
+#@ multipost-newsletter
+msgid "from"
+msgstr "vom"
+

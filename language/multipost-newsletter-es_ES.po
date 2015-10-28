@@ -1,0 +1,1334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: features/class-Multipost_Newsletter_Create.php:75
+#: features/class-Multipost_Newsletter_Init.php:157
+#: features/class-Multipost_Newsletter_Prepare.php:92
+#: features/class-Multipost_Newsletter_Profile.php:77
+#: features/class-Multipost_Newsletter_Taxonomy.php:88
+#: pro/class-Multipost_Newsletter_Groups.php:109
+#@ multipost-newsletter
+msgid "Newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:75
+#: features/class-Multipost_Newsletter_Init.php:166
+#@ multipost-newsletter
+msgid "Create Newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:82
+#: features/class-Multipost_Newsletter_Options.php:112
+#: features/class-Multipost_Newsletter_Prepare.php:101
+#: features/class-Multipost_Newsletter_Template.php:204
+#: pro/class-Multipost_Newsletter_Groups.php:116
+#@ multipost-newsletter
+msgid "Powered by"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:85
+#: features/class-Multipost_Newsletter_Options.php:115
+#: features/class-Multipost_Newsletter_Prepare.php:104
+#: features/class-Multipost_Newsletter_Template.php:207
+#: pro/class-Multipost_Newsletter_Groups.php:119
+#@ multipost-newsletter
+msgid "This plugin is powered by <a href=\"http://inpsyde.com\">Inpsyde.com</a> - Your expert for WordPress, BuddyPress and bbPress."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:101
+#@ multipost-newsletter
+msgid "You have to choose an edition to send the newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:107
+#@ multipost-newsletter
+msgid "You have to choose a group"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:113
+#@ multipost-newsletter
+msgid "You have to choose an api"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:123
+#: features/class-Multipost_Newsletter_Create.php:128
+#: features/class-Multipost_Newsletter_Prepare.php:130
+#: features/class-Multipost_Newsletter_Prepare.php:135
+#@ multipost-newsletter
+msgid "Choose Edition"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:171
+#@ multipost-newsletter
+msgid "Choose Recipient Group"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:172
+#@ multipost-newsletter
+msgid "All registered Subscribers"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:183
+#@ multipost-newsletter
+msgid "Choose Sending API"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:184
+#@ multipost-newsletter
+msgid "Send over WordPress"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:185
+#@ multipost-newsletter
+msgid "Send over SMTP"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:191
+#@ multipost-newsletter
+msgid "Send Test Newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:253
+#@ multipost-newsletter
+msgid "Testmail: "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:291
+#@ multipost-newsletter
+msgid "Testmail has been send."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Create.php:295
+#: features/class-Multipost_Newsletter_Create.php:301
+#@ multipost-newsletter
+msgid "Send Newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Generate_Text.php:104
+#: pro/class-Multipost_Newsletter_Generate_HTML.php:109
+#: pro/class-Multipost_Newsletter_Generate_PDF.php:105
+#@ multipost-newsletter
+msgid "Contents"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Help.php:76
+#: features/class-Multipost_Newsletter_Help.php:101
+#: features/class-Multipost_Newsletter_Help.php:126
+#: features/class-Multipost_Newsletter_Help.php:151
+#: features/class-Multipost_Newsletter_Help.php:176
+#@ default
+msgid "My Help Tab"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Help.php:77
+#: features/class-Multipost_Newsletter_Help.php:102
+#: features/class-Multipost_Newsletter_Help.php:127
+#: features/class-Multipost_Newsletter_Help.php:152
+#: features/class-Multipost_Newsletter_Help.php:177
+#@ default
+msgid "Descriptive content that will show in My Help Tab-body goes here."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:133
+#@ multipost-newsletter
+msgid "Send Newsletter to "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:134
+#@ multipost-newsletter
+msgid " of "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:135
+#@ multipost-newsletter
+msgid " Recipients "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:137
+#@ multipost-newsletter
+msgid "All Done!"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:138
+#@ multipost-newsletter
+msgid "An unknown error occured. Please contact your server administrator!"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:158
+#@ multipost-newsletter
+msgid "Options"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:159
+#@ multipost-newsletter
+msgid "Template"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:160
+#: features/class-Multipost_Newsletter_Taxonomy.php:123
+#: features/class-Multipost_Newsletter_Taxonomy.php:138
+#@ multipost-newsletter
+msgid "Editions"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:163
+#: features/class-Multipost_Newsletter_Profile.php:183
+#: features/class-Multipost_Newsletter_Widget.php:224
+#: pro/class-Multipost_Newsletter_Groups.php:109
+#@ multipost-newsletter
+msgid "Groups"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:165
+#: features/class-Multipost_Newsletter_Prepare.php:92
+#: features/class-Multipost_Newsletter_Prepare.php:174
+#@ multipost-newsletter
+msgid "Prepare Newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:192
+#@ multipost-newsletter
+msgid "File Path"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:196
+#@ multipost-newsletter
+msgid "Path of the uploaded file."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:322
+#@ multipost-newsletter
+msgid "written by"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:322
+#@ multipost-newsletter
+msgid "at"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Init.php:328
+#@ multipost-newsletter
+msgid "Read more"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:79
+#: features/class-Multipost_Newsletter_Template.php:85
+#@ multipost-newsletter
+msgid "General"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:80
+#@ multipost-newsletter
+msgid "SMTP"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:96
+#@ multipost-newsletter
+msgid "Newsletter Options "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:164
+#@ multipost-newsletter
+msgid "You have to purchase the pro-version of this plugin to send a newsletter over SMTP"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:197
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:83
+#@ multipost-newsletter
+msgid "Options have been saved."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:206
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:91
+#@ multipost-newsletter
+msgid "General Settings"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:212
+#@ multipost-newsletter
+msgid "Sender Name"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:220
+#@ multipost-newsletter
+msgid "Sender E-Mail"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:228
+#@ multipost-newsletter
+msgid "Recipient of Testmail"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:237
+#@ multipost-newsletter
+msgid "Support Post Types"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Options.php:250
+#: features/class-Multipost_Newsletter_Template.php:521
+#: features/class-Multipost_Newsletter_Template.php:668
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:123
+#: pro/class-Multipost_Newsletter_Template_HTML.php:201
+#: pro/class-Multipost_Newsletter_Template_PDF.php:357
+#@ multipost-newsletter
+msgid "Save Changes"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:120
+#@ multipost-newsletter
+msgid "You have to choose an edition to generate the newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:211
+#: features/class-Multipost_Newsletter_Prepare.php:409
+#@ multipost-newsletter
+msgid "Generate Preview"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:215
+#@ multipost-newsletter
+msgid "Sort the Posts"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:219
+#@ multipost-newsletter
+msgid "Add Spacer"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:221
+#@ multipost-newsletter
+msgid "Choose Spacer"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:222
+#@ multipost-newsletter
+msgid "Empty Spacer"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:287
+#: features/class-Multipost_Newsletter_Prepare.php:312
+#: features/class-Multipost_Newsletter_Prepare.php:461
+#: features/class-Multipost_Newsletter_Template.php:340
+#: features/class-Multipost_Newsletter_Template.php:383
+#@ multipost-newsletter
+msgid "Click to toggle"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:289
+#: features/class-Multipost_Newsletter_Prepare.php:463
+#: features/class-Multipost_Newsletter_Template.php:89
+#@ multipost-newsletter
+msgid "Spacer"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:293
+#: features/class-Multipost_Newsletter_Prepare.php:467
+#: features/class-Multipost_Newsletter_Profile.php:176
+#: features/class-Multipost_Newsletter_Template.php:86
+#: features/class-Multipost_Newsletter_Widget.php:219
+#: features/class-Multipost_Newsletter_Widget.php:251
+#@ multipost-newsletter
+msgid "HTML"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:296
+#: features/class-Multipost_Newsletter_Prepare.php:470
+#: features/class-Multipost_Newsletter_Profile.php:174
+#: features/class-Multipost_Newsletter_Template.php:87
+#: features/class-Multipost_Newsletter_Widget.php:217
+#: features/class-Multipost_Newsletter_Widget.php:252
+#@ multipost-newsletter
+msgid "Text"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:299
+#: features/class-Multipost_Newsletter_Prepare.php:473
+#@ multipost-newsletter
+msgid "Show Spacer in Contents only"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:301
+#: features/class-Multipost_Newsletter_Prepare.php:475
+#@ multipost-newsletter
+msgid "Don't show this spacer in PDF"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:303
+#: features/class-Multipost_Newsletter_Prepare.php:477
+#: features/class-Multipost_Newsletter_Template.php:416
+#@ multipost-newsletter
+msgid "Delete Spacer"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:304
+#: features/class-Multipost_Newsletter_Prepare.php:478
+#@ multipost-newsletter
+msgid "Save Spacer"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:315
+#@ multipost-newsletter
+msgid "Save Post Settings"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:383
+#@ multipost-newsletter
+msgid "Additional Options"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:384
+#@ multipost-newsletter
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:386
+#@ multipost-newsletter
+msgid "Title"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:387
+#@ multipost-newsletter
+msgid "Donot show Title"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:389
+#@ multipost-newsletter
+msgid "Content Options"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:390
+#: features/class-Multipost_Newsletter_Prepare.php:395
+#@ multipost-newsletter
+msgid "Show full content"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:391
+#: features/class-Multipost_Newsletter_Prepare.php:396
+#@ multipost-newsletter
+msgid "Only show excerpt"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:392
+#@ multipost-newsletter
+msgid "Only show the link"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:394
+#@ multipost-newsletter
+msgid "PDF Content Options"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:398
+#@ multipost-newsletter
+msgid "PDF Settings"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:399
+#@ multipost-newsletter
+msgid "Donot show this post in pdf"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:542
+#: features/class-Multipost_Newsletter_Template.php:313
+#: features/class-Multipost_Newsletter_Template.php:331
+#@ multipost-newsletter
+msgid "Spacer has been saved"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:566
+#@ multipost-newsletter
+msgid "Post settings have been saved"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:584
+#@ multipost-newsletter
+msgid "Download PDF"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:605
+#, php-format
+#@ multipost-newsletter
+msgid "The newsletter has been saved automatically. If you want to send the newsletter follow the steps under <a href=\"%s\">Create Newsletter</a>"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:611
+#: features/class-Multipost_Newsletter_Prepare.php:646
+#@ multipost-newsletter
+msgid "Back"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:615
+#@ multipost-newsletter
+msgid "Text-Preview"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:616
+#@ multipost-newsletter
+msgid "HTML-Preview"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:617
+#@ multipost-newsletter
+msgid "Download-PDF"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:622
+#@ multipost-newsletter
+msgid "Newsletter Preview"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:631
+#: features/class-Multipost_Newsletter_Template.php:541
+#@ multipost-newsletter
+msgid "You have to purchase the pro-version of this plugin to generate an HTML-Newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:637
+#@ multipost-newsletter
+msgid "Generate PDF, please wait"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Prepare.php:639
+#: features/class-Multipost_Newsletter_Template.php:560
+#@ multipost-newsletter
+msgid "You have to purchase the pro-version of this plugin to generate a PDF-Newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Profile.php:97
+#@ multipost-newsletter
+msgid "Recipient: "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Profile.php:97
+#@ default
+msgid "Yes"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Profile.php:97
+#@ default
+msgid "No"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Profile.php:100
+#@ multipost-newsletter
+msgid "Type: "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Profile.php:103
+#@ multipost-newsletter
+msgid "Groups: "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Profile.php:158
+#@ multipost-newsletter
+msgid "Newsletter Settings"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Profile.php:163
+#: features/class-Multipost_Newsletter_Widget.php:214
+#@ multipost-newsletter
+msgid "Receive Newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Profile.php:171
+#@ multipost-newsletter
+msgid "Type"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:139
+#@ multipost-newsletter
+msgid "All Editions"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:140
+#@ multipost-newsletter
+msgid "Edit Edition"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:141
+#@ multipost-newsletter
+msgid "Parent Edition"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:142
+#@ multipost-newsletter
+msgid "Update Edition"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:143
+#@ multipost-newsletter
+msgid "Search Editions"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:144
+#: features/class-Multipost_Newsletter_Taxonomy.php:146
+#@ multipost-newsletter
+msgid "Add Edition"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:145
+#@ multipost-newsletter
+msgid "Edition"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:147
+#@ multipost-newsletter
+msgid "Popular Editions"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Taxonomy.php:148
+#@ multipost-newsletter
+msgid "Parent Edition:"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:88
+#@ multipost-newsletter
+msgid "PDF"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:105
+#@ multipost-newsletter
+msgid "Template "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:143
+#@ multipost-newsletter
+msgid "Restore Point at "
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:164
+#@ multipost-newsletter
+msgid "Restore Point has been saved"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:191
+#@ multipost-newsletter
+msgid "Restore Settings. Please wait ..."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:212
+#: features/class-Multipost_Newsletter_Template.php:218
+#@ multipost-newsletter
+msgid "Create Restore Point"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:214
+#@ multipost-newsletter
+msgid "This newsletter plugin is able to save the template settings into a restore point. With that you can restore the settings."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:216
+#@ multipost-newsletter
+msgid "Name of Restore Point"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:217
+#@ multipost-newsletter
+msgid "Leave empty and the name will be generated automatically"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:224
+#: features/class-Multipost_Newsletter_Template.php:236
+#@ multipost-newsletter
+msgid "Restore Template Settings"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:230
+#@ multipost-newsletter
+msgid "Chose Restore Point"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:295
+#@ multipost-newsletter
+msgid "Spacer has been deleted"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:341
+#@ multipost-newsletter
+msgid "Add Spacer Template"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:348
+#@ multipost-newsletter
+msgid "Spacer Title"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:356
+#: features/class-Multipost_Newsletter_Template.php:399
+#@ multipost-newsletter
+msgid "HTML Content"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:364
+#: features/class-Multipost_Newsletter_Template.php:407
+#@ multipost-newsletter
+msgid "Text Content"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:372
+#@ multipost-newsletter
+msgid "Add New Spacer"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:377
+#@ multipost-newsletter
+msgid "Currently available spacers"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:417
+#@ multipost-newsletter
+msgid "Edit Spacer"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:456
+#: features/class-Multipost_Newsletter_Template.php:599
+#: pro/class-Multipost_Newsletter_Template_HTML.php:98
+#: pro/class-Multipost_Newsletter_Template_PDF.php:93
+#@ multipost-newsletter
+msgid "Template has been saved."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:465
+#@ multipost-newsletter
+msgid "General Template"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:471
+#@ multipost-newsletter
+msgid "Intro-Text"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:477
+#: features/class-Multipost_Newsletter_Template.php:489
+#: pro/class-Multipost_Newsletter_Template_HTML.php:173
+#@ multipost-newsletter
+msgid "Display the PDF Link"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:483
+#@ multipost-newsletter
+msgid "Footer-Text"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:495
+#@ multipost-newsletter
+msgid "Display contents"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:503
+#: pro/class-Multipost_Newsletter_Template_PDF.php:347
+#@ multipost-newsletter
+msgid "Content as Excerpt"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:511
+#@ multipost-newsletter
+msgid "Use Post Thumbnails"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:608
+#@ multipost-newsletter
+msgid "Text Template"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:614
+#: pro/class-Multipost_Newsletter_Template_HTML.php:129
+#@ multipost-newsletter
+msgid "Contents Headline (before)"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:622
+#: pro/class-Multipost_Newsletter_Template_HTML.php:137
+#@ multipost-newsletter
+msgid "Contents Headlines (after)"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:630
+#: pro/class-Multipost_Newsletter_Template_HTML.php:161
+#@ multipost-newsletter
+msgid "Newsletter Template"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:636
+#: pro/class-Multipost_Newsletter_Template_HTML.php:167
+#@ multipost-newsletter
+msgid "Name of the newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:637
+#: pro/class-Multipost_Newsletter_Template_HTML.php:168
+#@ multipost-newsletter
+msgid "Displays the Intro-Text"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:638
+#: pro/class-Multipost_Newsletter_Template_HTML.php:169
+#@ multipost-newsletter
+msgid "Date of the Newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:639
+#: pro/class-Multipost_Newsletter_Template_HTML.php:170
+#@ multipost-newsletter
+msgid "Displays the contents if needed"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:640
+#: pro/class-Multipost_Newsletter_Template_HTML.php:171
+#@ multipost-newsletter
+msgid "Displays the footer"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:641
+#: pro/class-Multipost_Newsletter_Template_HTML.php:172
+#@ multipost-newsletter
+msgid "Displays the Posts"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:642
+#@ multipost-newsletter
+msgid "Display the PDF URL"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:648
+#: pro/class-Multipost_Newsletter_Template_HTML.php:179
+#@ multipost-newsletter
+msgid "Single Post Template"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:654
+#: pro/class-Multipost_Newsletter_Template_HTML.php:185
+#@ multipost-newsletter
+msgid "Post Title"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:655
+#: pro/class-Multipost_Newsletter_Template_HTML.php:186
+#@ multipost-newsletter
+msgid "Post Content"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:656
+#: pro/class-Multipost_Newsletter_Template_HTML.php:187
+#@ multipost-newsletter
+msgid "Post Thumbnail"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:657
+#: pro/class-Multipost_Newsletter_Template_HTML.php:188
+#@ multipost-newsletter
+msgid "Post Date"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:658
+#: pro/class-Multipost_Newsletter_Template_HTML.php:189
+#@ multipost-newsletter
+msgid "Post Author"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:659
+#: pro/class-Multipost_Newsletter_Template_HTML.php:191
+#@ multipost-newsletter
+msgid "The permalink of the post"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:660
+#: pro/class-Multipost_Newsletter_Template_HTML.php:193
+#@ multipost-newsletter
+msgid "Your label here"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Template.php:660
+#: pro/class-Multipost_Newsletter_Template_HTML.php:193
+#@ multipost-newsletter
+msgid "Display a custom field"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:62
+#@ multipost-newsletter
+msgid "Use this widget to display the register formular."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:79
+#@ default
+msgid "Lost Password"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:120
+#: features/class-Multipost_Newsletter_Widget.php:123
+#@ default
+msgid "Please enter a correct email address"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:129
+#@ default
+msgid "Sorry, that email address is not allowed!"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:133
+#@ default
+msgid "Sorry, that email address is already used!"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:137
+#@ multipost-newsletter
+msgid "Please chose if you want html or a text mail!"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:141
+#@ multipost-newsletter
+msgid "Please chose a group!"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:144
+#@ multipost-newsletter
+msgid "An error occured!"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:195
+#@ multipost-newsletter
+msgid "Settings saved"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:211
+#@ multipost-newsletter
+msgid "Edit your newsletter settings here."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:233
+#@ multipost-newsletter
+msgid "Logout"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:234
+#@ default
+msgid "Save"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:241
+#, php-format
+#@ multipost-newsletter
+msgid "You have been registered successfully. You'll now get an email with your generated username and password. Please <a href=\"%s\">login</a> and change your credentials."
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:248
+#@ default
+msgid "E-mail"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:266
+#@ default
+msgid "Register"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:269
+#@ multipost-newsletter
+msgid "Already registered?"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:275
+#@ multipost-newsletter
+msgid "Register for newsletter"
+msgstr ""
+
+#: features/class-Multipost_Newsletter_Widget.php:319
+#@ multipost-newsletter
+msgid "Title:"
+msgstr ""
+
+#: inc/html2text/html2text.php:454
+#@ multipost-newsletter
+msgid "Links:"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "Multipost Newsletter"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "The Multi Post Newsletter is a simple plugin, which provides to link several posts to a newsletter. This procedure is similar to the categories. Within the flexible configuration and templating, you're able to set the newsletters appearance to your requirement."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "Inpsyde GmbH"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "http://inpsyde.com"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: multipost-newsletter.php:0
+#@ multipost-newsletter
+msgid "1.0"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:238
+#@ multipost-newsletter
+msgid "The entered license key is wrong."
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:242
+#@ multipost-newsletter
+msgid "Plugin successfully activated."
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:254
+#@ multipost-newsletter
+msgid "License Key"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:257
+#@ multipost-newsletter
+msgid "Renew"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:257
+#@ multipost-newsletter
+msgid "Activate"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Auto_Update.php:258
+#@ multipost-newsletter
+msgid "Cancel"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Generate_HTML.php:216
+#@ multipost-newsletter
+msgid "Read the post online"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Generate_PDF.php:200
+#@ multipost-newsletter
+msgid "Image Source: "
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:81
+#@ multipost-newsletter
+msgid "Group has been added"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:99
+#@ multipost-newsletter
+msgid "Group has been deleted"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:130
+#@ multipost-newsletter
+msgid "Add New Group"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:137
+#@ multipost-newsletter
+msgid "Group Name"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:140
+#@ multipost-newsletter
+msgid "Add Group"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:153
+#: pro/class-Multipost_Newsletter_Groups.php:160
+#@ default
+msgid "Name"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:154
+#: pro/class-Multipost_Newsletter_Groups.php:161
+#@ default
+msgid "Actions"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:177
+#@ default
+msgid "Delete"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Groups.php:186
+#@ multipost-newsletter
+msgid "There are no groups yet"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:97
+#@ multipost-newsletter
+msgid "SMTP Host"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:105
+#@ multipost-newsletter
+msgid "Username"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Options_SMTP.php:113
+#@ multipost-newsletter
+msgid "Password"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_PDF_Export.php:164
+#@ multipost-newsletter
+msgid "Written by "
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_PDF_Export.php:164
+#@ multipost-newsletter
+msgid " published at "
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:107
+#@ multipost-newsletter
+msgid "HTML Template"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:113
+#@ multipost-newsletter
+msgid "Background-Color (even)"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:121
+#@ multipost-newsletter
+msgid "Background-Color (odd)"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:145
+#@ multipost-newsletter
+msgid "HTML Header Template"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:153
+#@ multipost-newsletter
+msgid "HTML Footer Template"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:190
+#, php-format
+#@ multipost-newsletter
+msgid "Displays the color setted up in the \\\"Background-Color\\\"-Section. Use it like this: &lt;div style=\\\"background: #%COLOR%;\\\"&gt; ..."
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_HTML.php:192
+#@ multipost-newsletter
+msgid "Important for the Contents. It posts a &lt;a name=\"\"&gt;&lt;/a&gt;"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:100
+#@ multipost-newsletter
+msgid "Headline"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:101
+#@ multipost-newsletter
+msgid "Description"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:102
+#@ multipost-newsletter
+msgid "Subline (the date is located there)"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:103
+#@ multipost-newsletter
+msgid "Content Headline"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:104
+#@ multipost-newsletter
+msgid "Content"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:105
+#@ multipost-newsletter
+msgid "Content Footer (Authordata, Category, Postdate)"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:106
+#@ multipost-newsletter
+msgid "Page Numbers"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:113
+#@ multipost-newsletter
+msgid "PDF Template"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:115
+#@ multipost-newsletter
+msgid "The Multipost Newsletter uses FPDF to generate the PDF dynamically. Due to this we have some restrictions to template the PDF. In future we are planning a feature to make this easier and better."
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:125
+#, php-format
+#@ multipost-newsletter
+msgid "Show %s"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:134
+#@ multipost-newsletter
+msgid "Font"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:146
+#@ multipost-newsletter
+msgid "Font Size"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:150
+#@ multipost-newsletter
+msgid "Note: FPDF uses pt"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:155
+#@ multipost-newsletter
+msgid "Font Color"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:158
+#: pro/class-Multipost_Newsletter_Template_PDF.php:328
+#: pro/class-Multipost_Newsletter_Template_PDF.php:339
+#@ multipost-newsletter
+msgid "Red"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:159
+#: pro/class-Multipost_Newsletter_Template_PDF.php:329
+#: pro/class-Multipost_Newsletter_Template_PDF.php:340
+#@ multipost-newsletter
+msgid "Green"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:160
+#: pro/class-Multipost_Newsletter_Template_PDF.php:330
+#: pro/class-Multipost_Newsletter_Template_PDF.php:341
+#@ multipost-newsletter
+msgid "Blue"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:161
+#: pro/class-Multipost_Newsletter_Template_PDF.php:331
+#: pro/class-Multipost_Newsletter_Template_PDF.php:342
+#@ multipost-newsletter
+msgid "Here, we are using the RGB color model"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:167
+#: pro/class-Multipost_Newsletter_Template_PDF.php:201
+#: pro/class-Multipost_Newsletter_Template_PDF.php:233
+#: pro/class-Multipost_Newsletter_Template_PDF.php:264
+#: pro/class-Multipost_Newsletter_Template_PDF.php:295
+#@ multipost-newsletter
+msgid "Position X"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:175
+#: pro/class-Multipost_Newsletter_Template_PDF.php:209
+#: pro/class-Multipost_Newsletter_Template_PDF.php:241
+#: pro/class-Multipost_Newsletter_Template_PDF.php:272
+#: pro/class-Multipost_Newsletter_Template_PDF.php:303
+#@ multipost-newsletter
+msgid "Position Y"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:186
+#@ multipost-newsletter
+msgid "We also offer a neat way to place some decoration images in the PDF. Just insert the full path (not URL!) to the images here"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:187
+#@ multipost-newsletter
+msgid "Logo"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:192
+#@ multipost-newsletter
+msgid "Full path to logo"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:196
+#: pro/class-Multipost_Newsletter_Template_PDF.php:228
+#: pro/class-Multipost_Newsletter_Template_PDF.php:259
+#: pro/class-Multipost_Newsletter_Template_PDF.php:290
+#@ multipost-newsletter
+msgid "You can find the path under Media -> Overview -> Edit Media File"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:218
+#@ multipost-newsletter
+msgid "Watermark"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:223
+#@ multipost-newsletter
+msgid "Full path to watermark"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:224
+#@ multipost-newsletter
+msgid "This image is placed on the background on every page except the first"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:250
+#@ multipost-newsletter
+msgid "Corner Bottom Left"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:255
+#@ multipost-newsletter
+msgid "Full path to corner bottom right (odd pages)"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:281
+#@ multipost-newsletter
+msgid "Corner Bottom Right"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:286
+#@ multipost-newsletter
+msgid "Full path to corner bottom left (even pages)"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:312
+#@ multipost-newsletter
+msgid "Other Stuff"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:317
+#@ multipost-newsletter
+msgid "Height of the Topbar on every page except the first"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:325
+#@ multipost-newsletter
+msgid "Color of the Topbar on every page except the first"
+msgstr ""
+
+#: pro/class-Multipost_Newsletter_Template_PDF.php:336
+#@ multipost-newsletter
+msgid "Link color"
+msgstr ""
+
